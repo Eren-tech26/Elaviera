@@ -19,7 +19,7 @@ OWNER_USERNAME = "@Veron_seller"
 
 BOT_NAME = "𝐄𝐥𝐚𝐯𝐢𝐞𝐫𝐚ꭙ 𝐌ᴜsɪᴄ🌷"
 
-ASSUSERNAME = "@Elavieraassistant"
+ASSUSERNAME = "@VERON_MAHI"
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://thebiggestcomebackever:EREN1234@cluster0.7q7ri.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
@@ -66,7 +66,7 @@ SONG_DOWNLOAD_DURATION_LIMIT = 9999999
 TG_AUDIO_FILESIZE_LIMIT = 2147483648
 TG_VIDEO_FILESIZE_LIMIT = 2147483648
 
-STRING1 = getenv("STRING1", "BQG2k-wAJD_h-LwRValEU3jXov9nVP6d21ErM8JfFUlzG52of0jVyL-VeO_vx3ChcyPR0ZPs9xFt9tc946gLxvVtu6ak1tG0rNadRe2cl1MK1rfTjarIFLK3DhLGNZ0U4xWbbX8C55Azw9g_qWf-8nScr2cATMxqxpzmJ1YbvdQ5PYMGM9fGsxEabpLIIsnqOZm8Xofeck9iAIDIDCMOnq4YYbiQD5x2llJJioOfAxvxfyTORNlIm9NeQaFObHuJyo3W-b39XfhkYEesxRSxpFg9Bz8lD-uFVaeLYsH6j85nSQe9co8D3V8xbTPlaKWgXH5_A610uMkjrS1eMviS5Oh37Qt65AAAAAFfDNHUAA")
+STRING1 = getenv("STRING1", "BQFvAdoAd9dK5h_EHN1ovg-1PwJTbG-74BKSycQeFNOgUY2bHb8B1IZpSjVIpekNrC5dTk-kSRQQfTyclX1avey2mm_BOgf0kTuI8CBFIJ1daMMcVf_2xWtYow9MEhdDvYehDL27UJo1fFI3YzFw0g8u-_6PT2zLQD7l5ot_XRmZuSLPRJwY2UpV644dbM-1LhoP2buHnASJibcaS388-mocErtuJ-yLHuPwhX4zMlyRDLyL7Hk9TELrO-aBrjnL2QXcla2VBeYnm8c5Ad-3qxdmqS0f1Ldux9xMJVwDbVoqnsaXX9J8d11tc547GJ1zPisRgD3nWxO724sCRQ1nBrg0Q2A5YwAAAAG5vvzHAA")
 STRING2 = getenv("STRING2", None)
 STRING3 = getenv("STRING3", None)
 STRING4 = getenv("STRING4", None)
